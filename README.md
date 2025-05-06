@@ -1,20 +1,10 @@
 ## Hi there 👋
 
-<!--
-**ingfcetina/ingfcetina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Fabián Cetina | Python Developer & GIS Specialist 🐍🌍🚀
+
+<div align="center">
+  <img src="Banner.png" alt="Banner" width="100%">
+</div>
 
 [![GitHub followers](https://img.shields.io/github/followers/ingfcetina?style=for-the-badge&logo=github)](https://github.com/ingfcetina)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fabian-cetina-pythondev/)
@@ -42,6 +32,11 @@ Mi mayor motivación es crear soluciones que realmente resuelvan problemas, comb
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SVM](https://img.shields.io/badge/SVM-FF3D00?style=for-the-badge&logo=support-vector-machine&logoColor=white)
+![Geobia](https://img.shields.io/badge/Geobia-FF3D00?style=for-the-badge&logo=geobia&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![esri](https://img.shields.io/badge/Esri-4C3F3F?style=for-the-badge&logo=esri&logoColor=white)
