@@ -82,6 +82,10 @@ Mi mayor motivación es crear soluciones que realmente resuelvan problemas, comb
 - Herramientas que faciliten el día a día de los desarrolladores
 - Iniciativas educativas que acerquen la tecnología a más personas
 
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repositorio o nominarme a "GitHub Star". ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
 ## 📫 Contáctame
 
 - 📧 Email: [ingfcetina@gmail.com](mailto:ingfcetina@gmail.com)
