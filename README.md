@@ -11,9 +11,9 @@
 
 ## 🧠 Sobre mí
 
-¡Hola! Soy un apasionado ingeniero de software y entusiasta GIS con cerca de 10 años explorando el fascinante mundo de las tecnologías geoespaciales. Actualmente tengo la suerte de colaborar con el equipo de Esri Colombia, donde aprendo cada día algo nuevo sobre sistemas de información geográfica.
+¡Hola! Soy un ingeniero de software apasionado por la tecnología geoespacial con más de 12 años explorando este fascinante mundo. Actualmente tengo la suerte de colaborar con el equipo de Esri Colombia, donde aprendo cada día algo nuevo sobre sistemas de información geográfica.
 
-Trabajo principalmente con Python y JavaScript, creando aplicaciones web y APIs RESTful que conectan diferentes sistemas. Me encanta la idea de combinar el desarrollo de software con el análisis geoespacial para crear soluciones innovadoras.
+Trabajo principalmente con Python y JavaScript, creando aplicaciones web, APIs RESTful, servicios de geoprocesamiento e integraciones entre diferentes sistemas. Me encanta la idea de combinar el desarrollo de software con el análisis geoespacial para crear soluciones innovadoras.
 
 He tenido la oportunidad de trabajar en proyectos que van desde la visualización de datos geoespaciales hasta la integración de herramientas de inteligencia artificial en aplicaciones cotidianas. Me gusta mantenerme al día con las últimas tendencias y tecnologías, y siempre estoy buscando formas de mejorar mis habilidades y conocimientos.
 
