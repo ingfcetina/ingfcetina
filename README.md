@@ -94,7 +94,9 @@ Mi mayor motivación es crear soluciones que realmente resuelvan problemas, comb
 ## 📊 Estadísticas de contribución
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingfcetina&theme=radical&hide_border=true" alt="GitHub Streak">
+  <a href="http://www.github.com/ingfcetina"><img src="https://github-readme-stats.vercel.app/api?username=ingfcetina&show_icons=true&hide=issues,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="ingfcetina's GitHub stats" /></a>
+
+  <a href="http://www.github.com/ingfcetina"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ingfcetina&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 ---
